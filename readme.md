@@ -2,7 +2,7 @@
 
 A comprehensive feedback management application built with Django REST Framework and React that helps businesses effectively gather, prioritize, and act on customer feedback. This system enables customers to submit, vote on, comment on, and track feedback progress while providing product teams with powerful tools to manage the feedback lifecycle.
 
-![HappyFox Feedback Management](./frontend/screenshots/dashboard.png)
+![HappyFox Feedback Management](./Frontend/screenshots/dashboard.png)
 
 ## 📋 Table of Contents
 
@@ -214,7 +214,7 @@ npm run dev
 ## 📸 Screenshots
 
 ### Login & Authentication
-![Login Screen](./frontend/screenshots/login.png)
+![Login Screen](./Frontend/screenshots/login.png)
 *Clean, branded login interface with form validation*
 
 ### Dashboard & Analytics
