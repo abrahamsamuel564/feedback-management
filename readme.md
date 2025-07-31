@@ -218,23 +218,23 @@ npm run dev
 *Clean, branded login interface with form validation*
 
 ### Dashboard & Analytics
-![Dashboard](./frontend/screenshots/dashboard.png)
+![Dashboard](./Frontend/screenshots/dashboard.png)
 *Comprehensive analytics with interactive charts and key metrics*
 
 ### Boards Management
-![Boards](./frontend/screenshots/boards.png)
+![Boards](./Frontend/screenshots/boards.png)
 *Board overview with public/private indicators and member counts*
 
 ### Feedback Table View
-![Feedback Table](./frontend/screenshots/feedback-table.png)
+![Feedback Table](./Frontend/screenshots/feedback-table.png)
 *Sortable, filterable table with advanced search capabilities*
 
 ### Kanban Board
-![Kanban](./frontend/screenshots/kanban.png)
+![Kanban](./Frontend/screenshots/kanban.png)
 *Drag-and-drop Kanban board for visual status management*
 
 ### Mobile Responsive
-![Mobile View](./frontend/screenshots/mobile.png)
+![Mobile View](./Frontend/screenshots/mobile.png)
 *Fully responsive design optimized for mobile devices*
 
 ## 📁 Project Structure
